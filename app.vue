@@ -4,9 +4,7 @@
 <template>
     <div>
         <SiteHeader />
-        <UMain>
-           <NuxtPage />
-        </UMain>
+        <NuxtPage />
         <NewSiteModal />
     </div>
 </template>

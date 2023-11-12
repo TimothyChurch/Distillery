@@ -48,6 +48,6 @@ const links = [{
 
 <template>
     <div  class="max-w-screen">
-            <NuxtImg src="/images/logo.png" alt="Galveston Distilling Company" class="h-16" />
+            <img src="/images/logo.png" alt="Galveston Distilling Company" class="h-16" />
       </div>
 </template>
