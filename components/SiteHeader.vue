@@ -49,5 +49,6 @@ const links = [{
 <template>
     <div  class="max-w-screen">
             <img src="/images/logo.png" alt="Galveston Distilling Company" class="h-16" />
+            <h1>test</h1>
       </div>
 </template>
