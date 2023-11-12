@@ -12,7 +12,7 @@
                 Thank you for visiting!!
             </h1>
             </template>
-            <p>Please excuse the current state of the site. The website is currently being build but will be continually improving!</p>
+            <p>Please excuse the current state of the site. The website is currently being built but will be continually improving!</p>
             <template #footer>
                 <div class="flex flex-col items-center">
                 <UButton @click="isOpen = false" class="px-auto">Close</UButton>
