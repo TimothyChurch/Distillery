@@ -7,7 +7,6 @@ export default defineNuxtConfig({
       enabled: true
     }
   },
-  extends: ['@nuxt/ui-pro'],
   modules: [
     '@nuxt/ui',
     'nuxt-mongoose',

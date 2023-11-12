@@ -3,7 +3,7 @@
 <template>
     <div class="flex flex-col items-center gap-6">
     <div class="flex justify-center">
-        <NuxtImg src="/images/landing-hero.png" alt="Galveston Distilling Company" class="h-3/4"/>
+        <img src="@/public/images/landing-hero.png" alt="Galveston Distilling Company" class="h-3/4"/>
         <div class="flex  flex-col text-center  my-auto gap-5">
         <h1 class="text-7xl">Come Join Us!!</h1>
         <p class="text-xl">Come join us for our grand opening!<br />We are so excited to finally be opening the dream business!<br /> Meet the distiller, see the equipment, have some snacks, <br />and most importantly enjoy some drinks! Kids are Welcome!</p>

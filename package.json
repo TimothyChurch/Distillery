@@ -19,7 +19,6 @@
   "dependencies": {
     "@nuxt/image": "^1.0.0",
     "@nuxt/ui": "^2.10.0",
-    "@nuxt/ui-pro": "^0.4.2",
     "nuxt-mongoose": "^1.0.3",
     "typescript": "^5.2.2"
   }

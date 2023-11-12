@@ -47,12 +47,7 @@ const links = [{
 </script>
 
 <template>
-    <UHeader  class="max-w-screen">
-        <template #logo>
+    <div  class="max-w-screen">
             <NuxtImg src="/images/logo.png" alt="Galveston Distilling Company" class="h-16" />
-        </template>
-        <template #right>
-            <UColorModeToggle />
-        </template>
-    </UHeader>
+      </div>
 </template>
