@@ -6,5 +6,6 @@
         <SiteHeader />
         <NuxtPage />
         <NewSiteModal />
+        
     </div>
 </template>
