@@ -9,7 +9,7 @@
         <div class="mx-auto max-w-2xl lg:mx-0">
           <img
             class=""
-            src="images/MainLogo.png"
+            src="/images/MainLogo.png"
             alt="Your Company"
           />
           <h1 class="mt-6 text-4xl font-bold leading- text-center text-white">
@@ -33,7 +33,7 @@
       >
         <img
           class="aspect-[9/5] w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full"
-          src="images/20231205_174024 (3).jpg"
+          src="/images/20231205_174024 (3).jpg"
           alt=""
         />
       </div>
