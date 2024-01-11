@@ -9,7 +9,7 @@
         <div class="mx-auto max-w-2xl lg:mx-0">
           <img
             class=""
-            src="images/Galveston Distilling Co Logo (Copy) (Copy).png"
+            src="images/MainLogo.png"
             alt="Your Company"
           />
           <h1 class="mt-6 text-4xl font-bold leading- text-center text-white">
