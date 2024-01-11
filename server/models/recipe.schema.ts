@@ -11,5 +11,10 @@ export const Recipe = defineMongooseModel({
             type: String,
             required: false
         },
+        ingredients: {
+            type: Array,
+            required: true
+        },
+        
     }
 })
