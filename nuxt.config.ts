@@ -11,7 +11,8 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     'nuxt-mongoose',
     '@nuxtjs/tailwindcss',
-    '@nuxt/image'
+    '@nuxt/image',
+    'nuxt-icon'
   ],
   mongoose: {
     uri: 'mongodb+srv://TChurch:EricAvis1989@galvestondistillingco.pjkvjym.mongodb.net/', // TODO Move to env

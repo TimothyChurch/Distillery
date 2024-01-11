@@ -2,9 +2,10 @@
 </script>
 
 <template>
-    <div>
+    <div class="flex flex-col h-screen">
         <SiteHeader />
-        <NuxtPage />
+        <NuxtPage class="flex-1 overflow-y-auto" />
+        <SiteFooter />
         <NewSiteModal />
     </div>
 </template>
