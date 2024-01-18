@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+
+</script>
 
 <template>
-  <div class="relative bg-black bg-opacity-70">
+  <div class="relative bg-amber-200 bg-opacity-40">
     <div class="mx-auto lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
       <div
         class="px-6 pb-24 pt-10 mx-auto sm:pb-32 lg:col-span-7 lg:px-0 lg:pb-56 lg:pt-24 xl:col-span-6"
@@ -12,19 +14,16 @@
             src="/images/MainLogo.png"
             alt="Your Company"
           />
-          <h1 class="mt-6 text-4xl font-bold leading- text-center text-white">
+          <h1 class="mt-6 text-4xl font-bold leading- text-center text-black">
             A small, craft distillery focused on inovation, experimentation, and
             the pursuit of quality spirits
           </h1>
-          <div class="mt-10 flex items-center gap-x-6">
-            <a
-              href="#"
-              class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-              >Get started</a
-            >
-            <a href="#" class="text-sm font-semibold leading-6 text-gray-900"
-              >Learn more <span aria-hidden="true">→</span></a
-            >
+          <div class="mt-10 flex flex-col items-center gap-x-6 mx-auto">
+            <h1 class="text-3xl font-bold leading- text-center text-black">2618 Market Street<br />Galveston, Tx 77550</h1>
+            <h1 class="mt-6 text-2xl font-bold leading- text-center text-black">Mon-Wed 11am-3pm</h1>
+            <h1 class="text-2xl font-bold leading- text-center text-black">Thur-Sat 11am-11pm</h1>
+            
+          
           </div>
         </div>
       </div>

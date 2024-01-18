@@ -2,15 +2,18 @@
 </script>
 
 <template>
-    <div  class="max-w-screen bg-black p-4 flex flex-col">
-      <div class="mx-auto">
-        <img src="/images/logo.png" alt="Galveston Distilling Company" class="h-16" />
+    <div  class="max-w-screen bg-green-950 bg-opacity-90 grid grid-cols-3 justify-between">
+      <div>
+        <img src="/images/Logo.png" alt="Galveston Distilling Company" class="h-20 px-2" />
       </div>
-      <div name="Navbar" class="flex gap-5 text-white font-bold mx-auto"> 
-        <div>Home</div>
-        <div>About Us</div>
-        <div>Products</div>
-        <div>Contact Us</div>
+      <div name="Navbar" class="flex gap-5 text-amber-200 text-opacity-70 font-bold mx-auto text-2xl"> 
+        <div class="my-auto">Home</div>
+        <div class="my-auto">About Us</div>
+        <div class="my-auto">Products</div>
+        <div class="my-auto">Contact Us</div>
+      </div>
+      <div class="flex gap-5 text-amber-200 text-opacity-70 font-bold mx-auto text-2xl">
+        Contact area
       </div>
       
     </div>
